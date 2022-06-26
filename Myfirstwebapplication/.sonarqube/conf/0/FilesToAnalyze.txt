@@ -1,0 +1,11 @@
+﻿C:\Users\ANI\source\repos\Myfirstwebapplication\Myfirstweb\Controllers\WeatherForecastController.cs
+C:\Users\ANI\source\repos\Myfirstwebapplication\Myfirstweb\Employee.cs
+C:\Users\ANI\source\repos\Myfirstwebapplication\Myfirstweb\Program.cs
+C:\Users\ANI\source\repos\Myfirstwebapplication\Myfirstweb\WeatherForecast.cs
+C:\Users\ANI\source\repos\Myfirstwebapplication\Myfirstweb\obj\Debug\net6.0\Myfirstweb.GlobalUsings.g.cs
+C:\Users\ANI\source\repos\Myfirstwebapplication\Myfirstweb\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+C:\Users\ANI\source\repos\Myfirstwebapplication\Myfirstweb\obj\Debug\net6.0\Myfirstweb.AssemblyInfo.cs
+C:\Users\ANI\source\repos\Myfirstwebapplication\Myfirstweb\obj\Debug\net6.0\Myfirstweb.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ANI\source\repos\Myfirstwebapplication\Myfirstweb\appsettings.Development.json
+C:\Users\ANI\source\repos\Myfirstwebapplication\Myfirstweb\appsettings.json
+C:\Users\ANI\source\repos\Myfirstwebapplication\Myfirstweb\Properties\launchSettings.json

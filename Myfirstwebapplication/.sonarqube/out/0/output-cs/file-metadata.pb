@@ -1,0 +1,9 @@
+l
+cC:\Users\ANI\source\repos\Myfirstwebapplication\Myfirstweb\Controllers\WeatherForecastController.csutf-8O
+FC:\Users\ANI\source\repos\Myfirstwebapplication\Myfirstweb\Employee.csutf-8N
+EC:\Users\ANI\source\repos\Myfirstwebapplication\Myfirstweb\Program.csutf-8V
+MC:\Users\ANI\source\repos\Myfirstwebapplication\Myfirstweb\WeatherForecast.csutf-8s
+hC:\Users\ANI\source\repos\Myfirstwebapplication\Myfirstweb\obj\Debug\net6.0\Myfirstweb.GlobalUsings.g.csutf-8…
+zC:\Users\ANI\source\repos\Myfirstwebapplication\Myfirstweb\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8q
+fC:\Users\ANI\source\repos\Myfirstwebapplication\Myfirstweb\obj\Debug\net6.0\Myfirstweb.AssemblyInfo.csutf-8„
+yC:\Users\ANI\source\repos\Myfirstwebapplication\Myfirstweb\obj\Debug\net6.0\Myfirstweb.MvcApplicationPartsAssemblyInfo.csutf-8
